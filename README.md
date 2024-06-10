@@ -1,13 +1,12 @@
 Shopparazzi Mobile Application README
-======================================================================================================================================================
+
 
 Frontend and Backend: React Native, Node.js, Express.js
 Database: MySQL
 Emulator: Android Studio with Expo
 
-======================================================================================================================================================
 Prerequisites
-======================================================================================================================================================
+
 Before you start, ensure you have the following installed:
 
 Node.js: Download Node.js
@@ -15,9 +14,7 @@ Expo CLI: Install Expo CLI globally using "npm install -g expo-cli"
 Android Studio: Download Android Studio
 MySQL: Download MySQL
 
-======================================================================================================================================================
 Setting Up the Project
-======================================================================================================================================================
 
 1. Clone the Repository
 2. Install Dependencies using  "npm install"
@@ -52,9 +49,7 @@ II)Update IP Address and Port in Project Files:
  
 	*Replace any placeholder IP addresses with your local IP address and ensure the port is set to 3002 or another available port.
 
-======================================================================================================================================================
 Running the Project
-======================================================================================================================================================
 
 1. Start the Backend Server
 
@@ -67,7 +62,6 @@ This will start the backend server on port "3002".
 
 I) Open Android Studio.
 II) Launch the Android Virtual Device (AVD) from the AVD Manager.
-
 
 3. Start the Frontend Application
 
